@@ -2,8 +2,8 @@
 
 2 day project for 42 schoo, in c++ and ncurses inspire by space invader
 
-usage :<br/>
-  $>./ft_retro
+usage
+    $>  ./ft_retro
 
 ##futur possibles adds :
   - loot
