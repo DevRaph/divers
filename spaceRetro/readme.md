@@ -2,7 +2,7 @@
 
 2 day project for 42 schoo, in c++ and ncurses inspire by space invader
 
-##usage : (in terminal)
+usage :
   $>./ft_retro
 
 ##futur possibles adds :
